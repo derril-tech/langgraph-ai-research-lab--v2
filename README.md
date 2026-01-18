@@ -1,8 +1,6 @@
 # 🔬 AI Research Lab
 **Powered by LangGraph + OpenAI**
 
-🌐 **[View Live Application](https://langgraph-ai-research-lab.vercel.app)**
-
 > **Turn complex research questions into structured briefs. Ask any question, watch the AI pipeline orchestrate literature search, critical analysis, and evidence evaluation—delivering comprehensive research briefs with competing viewpoints and confidence scores in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -260,7 +258,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-[Live Demo](https://langgraph-ai-research-lab.vercel.app)
 Built with ❤️ and ☕
 
 </div>
